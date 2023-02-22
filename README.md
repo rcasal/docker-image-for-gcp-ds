@@ -1,4 +1,4 @@
-# docker-image-for-gcp-ds
+# Docker Image for GCP and Dev Containers [WIP]
 This repo contains a docker image and the code needed for create it with most common packages used for a GCP data scientist.
 
 ## Getting Started
@@ -19,15 +19,15 @@ Since all instructions on how to configure your dev environment are now defined 
 
 First, make sure you have the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) installed in VSCode. That done, if you open your repo again, the extension should already detect your Devcontainer:
 
-<img src="img_src/img1.jpeg" alt="drawing" width="400"/>
+<img src=".img_src/img1.jpeg" alt="drawing" width="400"/>
 
 Alternatively, you can open up the command palette (CMD + Shift + P) and select “Dev Containers: Reopen in Container”:
 
-<img src="img_src/img2.jpeg" alt="drawing" width="400"/>
+<img src=".img_src/img2.jpeg" alt="drawing" width="400"/>
 
 VSCode is now connected to the Docker container.
 
-<img src="img_src/img3.png" alt="drawing" width="400"/>
+<img src=".img_src/img3.png" alt="drawing" width="400"/>
 
 ## Container customization
 In order to customize the container, you should modify the `requirements.txt` and/or `Dockerfile`.
