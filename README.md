@@ -34,5 +34,5 @@ In order to customize the container, you should modify the `requirements.txt` an
 
 ## Useful External Links
 * [DevContainer templates](https://containers.dev/templates).
-* [How to create a devcontainer for your Python project](https://godatadriven.com/blog/how-to-create-a-devcontainer-for-your-python-project-%F0%9F%90%B3/)
-* [VSCode docs](https://code.visualstudio.com/docs/devcontainers/containers)
+* [How to create a devcontainer for your Python project](https://godatadriven.com/blog/how-to-create-a-devcontainer-for-your-python-project-%F0%9F%90%B3/).
+* [VSCode docs](https://code.visualstudio.com/docs/devcontainers/containers).
